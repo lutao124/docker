@@ -1,4 +1,4 @@
 nginx
 mysql
 redis
-minio
+minio/minio
