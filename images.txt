@@ -1,5 +1,2 @@
-nginx
-mysql
-redis
 minio/minio
-calico/cni:v3.14.1
+calico/cni:v3.14.2
