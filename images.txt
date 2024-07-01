@@ -2,3 +2,4 @@ nginx
 mysql
 redis
 minio/minio
+calico/cni:v3.14.1
