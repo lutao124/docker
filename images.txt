@@ -1,2 +1,3 @@
 minio/minio
 calico/cni:v3.14.2
+calico/pod2daemon-flexvol:v3.14.2
