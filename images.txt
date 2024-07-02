@@ -2,7 +2,7 @@ nginx
 redis
 mysql
 minio/minio
-flannel-cni-plugin:v1.5.1-flannel1
+flannel/flannel-cni-plugin:v1.5.1
 calico/cni:v3.14.2
 calico/pod2daemon-flexvol:v3.14.2
 calico/node:v3.14.2
