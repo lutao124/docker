@@ -8,4 +8,5 @@ calico/pod2daemon-flexvol:v3.14.2
 calico/node:v3.14.2
 prom/prometheus:latest
 minio/mc
-centos
+python
+
