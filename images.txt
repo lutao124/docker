@@ -9,4 +9,4 @@ calico/node:v3.14.2
 prom/prometheus:latest
 minio/mc
 python
-
+docker.io/kubernetesui/dashboard:v2.7.0
