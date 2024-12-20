@@ -10,3 +10,6 @@ prom/prometheus:latest
 minio/mc
 python
 docker.io/kubernetesui/dashboard:v2.7.0
+ubuntu
+centos
+
