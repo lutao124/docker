@@ -13,3 +13,5 @@ docker.io/kubernetesui/dashboard:v2.7.0
 ubuntu
 centos
 openjdk:17
+rabbitmq:4.0-management
+
