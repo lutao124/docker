@@ -1,17 +1,3 @@
-nginx
-redis
-mysql
-minio/minio
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
-calico/cni:v3.14.2
-calico/pod2daemon-flexvol:v3.14.2
-calico/node:v3.14.2
-prom/prometheus:latest
-minio/mc
-python
-docker.io/kubernetesui/dashboard:v2.7.0
-ubuntu
-centos
-openjdk:17
+
 rabbitmq:4.0-management
 
