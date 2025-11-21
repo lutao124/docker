@@ -1,2 +1,3 @@
 python
-
+elasticsearch:9.2.1
+kibana:9.2.1
