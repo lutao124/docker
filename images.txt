@@ -1,5 +1,1 @@
-python
-elasticsearch:9.2.1
-kibana:9.2.1
-node:18.20.8-alpine3.20
-python:3.10.15-alpine3.20
+jenkins/jenkins
